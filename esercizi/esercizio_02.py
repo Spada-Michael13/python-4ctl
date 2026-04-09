@@ -13,6 +13,6 @@ for i in numeri:
 print(f"calcolo con il for:{somma_for}")
 i=0
 somma_while=0
-while i<5:
+while i<len(numeri):
   somma_while+=numeri[i]
 print(f"calcolo con il while:{somma_while}")
