@@ -1,5 +1,5 @@
 # ==================================================
-# ESEMPIO 3 - iterazioni: while e for
+# ESEMPIO 6 - iterazioni: while e for
 # ==================================================
 
 # while
