@@ -9,3 +9,9 @@
 #
 # Esempio di output:
 # [4, 4, 6, 4]
+parole = ["cane", "sole", "python", "mare"]
+i=0
+while i < len(parole):
+  nuova_lista=len(parole[i])
+  print(nuova_lista)
+  i+=1
