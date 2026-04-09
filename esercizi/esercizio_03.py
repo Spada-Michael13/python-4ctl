@@ -12,3 +12,13 @@
 #
 # Altrimenti stampa:
 # Paolo non è presente nella lista.
+nomi = ["Luca", "Anna", "Marco", "Giulia"]
+nome=input("inserisci un nome:")
+
+
+for i in nomi:
+  if i==nome:
+    print(nome,"è prensente il nome nella lista")
+  else:
+    print(nome,"non è presente nella lista")
+    break
